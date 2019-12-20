@@ -1,6 +1,6 @@
 source 'https://rubygems.org'
 gem 'nokogiri'
-gem 'rack', '~> 2.0.1'
+gem 'rack', '~> 2.0.8'
 gem 'rspec'
 git_source(:github) { |repo| "https://github.com/#{repo}.git" }
 
